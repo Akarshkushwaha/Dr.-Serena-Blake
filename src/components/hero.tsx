@@ -16,7 +16,7 @@ export function Hero(){
   }
 
   return (
-    <section id="hero" className="min-h-screen flex items-center justify-center px-4 relative" style={{backgroundImage: "url('/images/hero-bg-clean.jpg')",
+    <section id="hero" className="min-h-screen flex items-center justify-center px-4 relative" style={{backgroundImage: "url('/images/HERO.jpg')",
       backgroundSize: "cover",
       backgroundPosition: "center",
       backgroundRepeat: "no-repeat"
