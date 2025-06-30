@@ -119,7 +119,7 @@ export function Contact() {
             <div>
               <h2 className="text-4xl md:text-5xl font-bold text-blue-900 mb-4">Get In Touch</h2>
               <p className="text-xl text-blue-700">
-                Ready to take the first step? I'm here to help you on your journey.
+                Ready to take the first step? I am here to help you on your journey.
               </p>
             </div>
 
@@ -244,7 +244,7 @@ export function Contact() {
                     className={`border-blue-200 ${errors.preferredTime ? "border-red-500" : ""}`}
                   />
                   <p className="text-xs text-blue-600">
-                    Let us know when you're typically available for a call or consultation
+                    Let us know when you are typically available for a call or consultation
                   </p>
                   {errors.preferredTime && <p className="text-red-500 text-sm">{errors.preferredTime}</p>}
                 </div>
