@@ -3,8 +3,8 @@ import { Hero } from "@/components/hero"
 import { About } from "@/components/about"
 import { Services } from "@/components/services"
 import { FAQ } from "@/components/faq"
-// import { Contact } from "@/components/contact"
-// import { Footer } from "@/components/footer"
+import { Contact } from "@/components/contact"
+import { Footer } from "@/components/footer"
 
 export default function TherapistWebsite() {
   return (
@@ -14,8 +14,8 @@ export default function TherapistWebsite() {
       <About />
       <Services />
       <FAQ />
-      {/* <Contact />
-      <Footer /> */}
+      <Contact />
+      <Footer />
     </div>
   )
 }
