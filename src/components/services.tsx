@@ -4,21 +4,21 @@ import Image from "next/image";
 const services = [
   {
     title: "Anxiety & Stress Management",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/images/anxiety.jpg?height=300&width=400",
     description:
       "Anxiety can prevent individuals from reaching their full potential. Dr. Blake provides personalized anxiety treatment, offering practical strategies to manage stress, reduce worry, and enhance overall well-being. Through evidence-based approaches like CBT and mindfulness, she helps clients build resilience and regain control over their lives.",
     price: "$200 / individual session",
   },
   {
     title: "Relationship Counseling",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/images/relationship.jpg?height=300&width=400",
     description:
       "Dr. Blake offers relationship and couples counseling to help partners improve communication, resolve conflicts, and strengthen their emotional connection. With 8 years of experience, she collaborates with couples to develop healthier relationships and navigate challenges together. Sessions focus on building trust, intimacy, and lasting partnership skills.",
     price: "$240 / couples session",
   },
   {
     title: "Trauma Recovery",
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/images/trauma.jpg?height=300&width=400",
     description:
       "Specialized treatment for trauma, PTSD, and related conditions using evidence-based approaches. Dr. Blake provides a safe space for healing, utilizing trauma-focused CBT and mindfulness techniques to help clients process difficult experiences. Her compassionate approach helps individuals reclaim their lives and move forward with strength and resilience.",
     price: "$200 / individual session",
