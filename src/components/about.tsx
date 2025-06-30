@@ -62,7 +62,7 @@ export function About() {
                   via <strong>Zoom</strong>, Dr. Blake is committed to creating
                   a safe, supportive space for you to thrive. Her approach
                   combines proven therapeutic techniques with genuine empathy to
-                  help clients navigate life's challenges and discover their
+                  help clients navigate life challenges and discover their
                   inner strength.
                 </p>
                 <p>
